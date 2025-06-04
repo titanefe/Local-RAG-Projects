@@ -1,5 +1,5 @@
 Python==3.13.3
-Visual Studio Code==1.99.3
+VisualStudioCode==1.99.3
 langchain==0.3.25
 langchain-community==0.3.24
 langchain-ollama==0.3.3
