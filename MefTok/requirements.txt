@@ -1,2 +1,11 @@
-Python = 3.13.3
-Visual Studio Code = 1.99.3
+Python==3.13.3
+Visual Studio Code==1.99.3
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-ollama==0.3.3
+chromadb==1.0.9
+unstructured==0.17.2
+Pypdf=5.5.0
+faiss-cpu==1.11.0
+protobuf==5.29.4
+ipython==9.2.0
