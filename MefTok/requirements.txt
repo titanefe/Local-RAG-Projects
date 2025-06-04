@@ -1,0 +1,2 @@
+Python = 3.13.3
+Visual Studio Code = 1.99.3

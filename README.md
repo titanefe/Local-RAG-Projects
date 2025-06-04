@@ -17,7 +17,7 @@ The first app is for IB Diploma Programme's Theory of Knowledge lesson. The pdf 
 #### 5- The fifth block is to set the basics of the app. We set our retrieval system which you can also do with MultiQuery retireval or SelfQuery retrieval (I would appreciate if you try other retrievals and LLms for this RAG as diffrent branches.) Searching kwargs is how many chunks it will search and retrieve. Then we choose our LLM, you can set the temperature depending on your needs. 0 gives factual answers and 1 gives more creative answers which is better for coming up with ideas etc. Than I created a simple question answer chain which is a needed code for this app to work. I don't have much information on how you could customize the QA chain so I am open to suggestions.
 #### 6- This is the block where you type in your question and wait for the answer in the part below the code block. For this part I want help on Verbose. Although I add Verbose = True I still see the thinking proccess of deepseek-r1 as well as the answer. How can I disable this?
 
-## BrainStormz AI
+
 
 
 Thank you for your contributions. Write for any issues, questions or improvements
